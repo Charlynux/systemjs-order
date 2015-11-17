@@ -1,2 +1,3 @@
-import 'red.css!';
-import 'blue.css!';
+import 'first.css!';
+
+import 'module';
