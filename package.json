@@ -12,7 +12,7 @@
   "devDependencies": {
     "gulp": "^3.9.0",
     "jspm": "^0.16.15",
-    "systemjs-builder": "^0.14.8"
+    "systemjs-builder": "0.14.8"
   },
   "jspm": {
     "dependencies": {

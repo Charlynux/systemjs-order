@@ -1,3 +1,3 @@
 import 'first.css!';
-
-import 'module';
+import 'second.css!';
+//import 'module';
